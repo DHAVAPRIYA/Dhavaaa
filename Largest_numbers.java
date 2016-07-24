@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	a=in.nextInt();
 	b=in.nextInt();
 	c=in.nextInt();
-	if(a>b&&b>c)
+	if(a>b&&a>c)
 	{
 		System.out.println("A is big");
 	}
